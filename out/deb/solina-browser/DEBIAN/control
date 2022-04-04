@@ -1,0 +1,8 @@
+PACKAGE: solina-browser
+Version: 2.0.1
+Architecture: all
+Essential: no
+Priority: optional
+Depends:
+Maintainer: RidoineEl
+Description: Simple web browser

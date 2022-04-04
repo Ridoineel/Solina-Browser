@@ -1,0 +1,11 @@
+body {
+    background: #1c1c1c;
+}
+
+* {
+    color: #bbb;
+}
+
+.container > div {
+    width: 40vw;
+}

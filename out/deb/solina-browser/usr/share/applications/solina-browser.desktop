@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Solina Browser
+GenericName=Solina
+Version=2.0.1
+Encoding=UTF-8
+Exec=solina-browser
+Icon=/usr/share/icons/solina.png
+Type=Application
+Actions=new-window;
+Keywords=Navigator;web;browser;
+Terminal=false
+
+[Desktop Action new-window]
+Name=New Window
+Exec=solina-browser
+Icon=/usr/share/icons/solina.png

@@ -1,0 +1,18 @@
+
+body {
+    background: #1c1c1c;
+}
+
+* {
+    color: #bbb;
+}
+
+.input, .input:active {
+    border: none;
+}
+
+.input {
+    background: transparent;
+    width: 30vw;
+    height: 100%;
+}

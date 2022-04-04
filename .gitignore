@@ -1,0 +1,5 @@
+out/artifacts
+out/deb/solina-browser.deb
+out/deb/solina-browser/opt/solina-browser/*
+out/solina-browser/solina_browser.jar
+out/solina-browser/lib/*

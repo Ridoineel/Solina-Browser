@@ -1,0 +1,17 @@
+.btn {
+    -fx-border-color: black;
+    -fx-background-color: transparent;
+}
+
+.btn:hover {
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-text-fill: white;
+}
+
+.btn-border-none {
+    -fx-border-color: none;
+}
+
+.cursor-pointer {
+    -fx-cursor: pointer;
+}

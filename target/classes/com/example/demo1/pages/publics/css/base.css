@@ -1,0 +1,28 @@
+
+h1  {
+    font-family: monospace;
+}
+
+.box {
+    padding: 20px;
+    border-radius: 10px;
+    background: rgba(11, 11, 11, 0.4);
+}
+
+.hbox {
+    display: flex;
+}
+
+.hbox div {
+    padding: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 92vh;
+}
+.text-center {
+    text-align: center;
+}
