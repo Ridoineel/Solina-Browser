@@ -30,7 +30,7 @@ sudo dpkg -i ./solina-browser-2.0.1.deb
 Finally,  check this in **applications launcher** or use command 
 `solina-browser`
 
-## Futures
+## Features
 * new tab link event.
 * Manage download.
 * Possibility to add extension.
